@@ -1,4 +1,4 @@
-![Screenshot](netflixinitialpage.png)
+![Screenshot](netflixinitialpage.PNG)
 
 
 # Getting Started with Create React App
